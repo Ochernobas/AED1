@@ -5,8 +5,6 @@ Cada arquivo representa um exercício ou projeto proposto ao longo do curso. (A 
 
 ---
 
-📚 **Linguagem:** C  
-🏫 **Disciplina:** Algoritmos e Estruturas de Dados I  
-✍️ **Autor:** *Rafael Soares Silva*
+🏫 **Disciplina:** Algoritmos e Estruturas de Dados I  - Universidade Federal de São Paulo
 
 ---
